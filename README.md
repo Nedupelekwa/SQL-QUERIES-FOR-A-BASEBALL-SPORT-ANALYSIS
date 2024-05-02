@@ -1,1 +1,1 @@
-The MS EXCEL datasets of the game existed in separate sheets. These were gathered, cleaned, used to, insights were gleaned on specific aspects of the game using MS SQL queries. The about 20 queries used and results are documented in MS Word format.
+The MS EXCEL datasets of the game existed in separate sheets. These were gathered, cleaned, insights were gleaned on specific aspects of the game using MS SQL queries. The about 20 queries used and results are documented in MS Word format.
